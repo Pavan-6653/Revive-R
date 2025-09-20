@@ -1,13 +1,13 @@
-# Sukoon 
+# Revive  
 This is a stress-relieving website project made for the hackathon [Hackofiesta](https://hack.iiitl.ac.in/). 
 This project is under the theme **Healthcare.**
 This was our first hackathon.
 
 ## 📃 Description 
-"Welcome to our stress-relieving website : [Sukoon](https://sukoon-stress-free.netlify.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
+"Welcome to our stress-relieving website : [Revive](https://Revive-stress-free.netlify.app/)! Here, you'll find a variety of tools and resources to help you manage and reduce stress in your daily life. From carefully crafted playlists and relaxing podcasts, to articles and tips on stress management techniques, our goal is to provide you with a one-stop-shop for all of your stress-relief needs. Whether you're looking for a quick break during a hectic workday, or a longer practice to unwind at night, we've got you covered. Take a look around, try out some of our resources, and let us know if there's anything we can do to improve your experience. Remember, taking care of yourself is just as important as taking care of your work and projects, so don't hesitate to make time for stress relief in your busy schedule."
 
 ## Website Link-
-<a href="https://sukoon-stress-free.netlify.app/">Sukoon</a>
+<a href="https://Revive-stress-free.netlify.app/">Sukoon</a>
 
 ## 🕊 Our Tagline 
 The one step solution to get relief from your stress.
@@ -50,11 +50,11 @@ Every contribution counts.
 1. Ensure that you have Git installed and working properly.
 2. Fork the repo by clicking on 'Fork' above.
 3. Clone the project by running git clone <forked_project_url>.
-4. Confused about where to start? Check out [good-first-issue](https://github.com/Susmita-Dey/Sukoon/labels/good%20first%20issue).
+4. Confused about where to start? Check out [good-first-issue](https://github.com/theworldoffive@gmail.com/Revive/labels/good%20first%20issue).
 5. Make a separate branch with the issue name ex. issue#485.
 6. You are good to go. Change the code and we will be waiting for your exciting PRs.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/Susmita-Dey/Sukoon/blob/main/CONTRIBUTING.md).
+For contributing guidelines and standards, visit [contributing.md](https://github.com/Pavan-6653/Revive/blob/main/CONTRIBUTING.md).
 
 ## Our Logo <a name = "logo"></a>
 <img src="./logo.png" width=140px height=110px alt="logo">
@@ -93,7 +93,7 @@ For contributing guidelines and standards, visit [contributing.md](https://githu
 <tr>
 <td>
 <a href="https://github.com/Susmita-Dey/Sukoon/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Susmita-Dey/Sukoon" /> 
+  <img src="https://contrib.rocks/image?repo=Revive-R/Rebvive" /> 
 </a>
 </td>
 </tr>
