@@ -1,6 +1,6 @@
 # Contributing to `R` 
   
- A big welcome and thank you for considering contributing to **Sukoon** open source project! 😀
+ A big welcome and thank you for considering contributing to **R** open source project! 😀
 
  *"It’s people like you that make it a reality for users in our community. Happy contributing."*
   
