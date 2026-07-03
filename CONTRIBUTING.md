@@ -1,4 +1,4 @@
-# Contributing to `Sukoon` 
+# Contributing to `R` 
   
  A big welcome and thank you for considering contributing to **Sukoon** open source project! 😀
 
